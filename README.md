@@ -3,4 +3,4 @@
 
 1) "TheDailyNewsApp" https://itunes.apple.com/us/app/thedailynewsapp/id798932583?ls=1&mt=8
 
-Zipped versions of release and simulator versions available for download above. 
+Zipped versions of release and simulator frameworks available for download above. 
